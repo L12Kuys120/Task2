@@ -1,0 +1,15 @@
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.csproj.AssemblyReference.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.AssemblyInfoInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.AssemblyInfo.cs
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.csproj.CoreCompileInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\bin\Debug\net6.0\HW19.exe
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\bin\Debug\net6.0\HW19.deps.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\bin\Debug\net6.0\HW19.runtimeconfig.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\bin\Debug\net6.0\HW19.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\bin\Debug\net6.0\HW19.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\refint\HW19.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\HW19.genruntimeconfig.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW19\obj\Debug\net6.0\ref\HW19.dll

@@ -1,0 +1,15 @@
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\bin\Debug\net6.0\HW21.exe
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\bin\Debug\net6.0\HW21.deps.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\bin\Debug\net6.0\HW21.runtimeconfig.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\bin\Debug\net6.0\HW21.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\bin\Debug\net6.0\HW21.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.csproj.AssemblyReference.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.AssemblyInfoInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.AssemblyInfo.cs
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.csproj.CoreCompileInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\refint\HW21.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\HW21.genruntimeconfig.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW21\obj\Debug\net6.0\ref\HW21.dll

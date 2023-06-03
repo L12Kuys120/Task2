@@ -1,0 +1,15 @@
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\bin\Debug\net6.0\HW.exe
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\bin\Debug\net6.0\HW.deps.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\bin\Debug\net6.0\HW.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\bin\Debug\net6.0\HW.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\refint\HW.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar3\HW\obj\Debug\net6.0\ref\HW.dll
